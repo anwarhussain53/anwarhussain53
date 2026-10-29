@@ -1,11 +1,15 @@
 # Hi, I'm Anwaar Hussain Mohammed 👋
 
-**Full Stack Developer** based in Irving, TX — I build web apps end to end with **Next.js, TypeScript, React and Supabase**, and have a background in Java and Python.
+**Full Stack Developer** · Irving, TX
 
-- 🔨 Currently building **AI Recruiting Copilot** — ranks resumes against a job description with explained match scores, skill-gap flags and AI-drafted outreach emails (Next.js · Supabase pgvector · LLM API · Vercel)
-- 🎓 MS Technology Management, Lindsey Wilson University · B.Tech Computer Science & Engineering, CMR Engineering College (2024)
-- 💼 Open to **Full Stack / Software Engineer** roles
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/anwaar-hussain-mohammed-892579204) · [Portfolio](https://anwarhussain.netlify.app)
+I build production-ready web applications end to end, from database design and APIs to polished, responsive interfaces. My core stack is **Next.js, TypeScript, React and Supabase**, backed by a foundation in **Java and Python**.
+
+- 🔨 **Currently building [HireLume](https://github.com/anwarhussain53/hirelume)**, an AI recruiting copilot that ranks resumes against a job description with explainable match scores, skill-gap insights and AI-drafted outreach emails.  
+  *Next.js · Supabase pgvector · LLM APIs · Vercel*
+- 🎓 **M.S. Technology Management**, Lindsey Wilson University  
+  **B.Tech Computer Science & Engineering**, CMR Engineering College (2024)
+- 💼 **Open to** Full Stack Developer and Software Engineer roles
+- 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/anwaar-hussain-mohammed-892579204) · [Portfolio](https://anwarhussain.netlify.app/)
 
 ---
 
